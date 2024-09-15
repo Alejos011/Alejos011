@@ -18,4 +18,4 @@ I´m a passionate IT Systems engineering student with experience in Web and mobi
 
 📫 𝙒𝙧𝙞𝙩𝙚 𝙢𝙚 𝙩𝙝𝙧𝙤𝙪𝙜𝙝 𝙩𝙝𝙚 𝙛𝙤𝙡𝙡𝙤𝙬𝙞𝙣𝙜 𝙀-𝙢𝙖𝙞𝙡: alejandro.gonzalez.flme011@gmail.com 🗿
   
-- ⚡ Fun fact: I thought a while what to write here... 𝚙𝚞𝚍í𝚗
+- ⚡ Fun fact: I thought a while what to write here... saludos al maromas el mañano
