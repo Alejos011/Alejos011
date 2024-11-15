@@ -1,19 +1,18 @@
-Yo, Alejandro Santiago Here!👋
+Technologies I use:
+DB:
+https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white
+https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
 
-I´m a passionate IT Systems engineering student with experience in Web and mobile apps back-end development with C# .NET.
+Diseño:
+https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white
+https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white
 
-  💻 𝑴𝒚 𝒍𝒂𝒏𝒈𝒖𝒂𝒈𝒆𝒔: C#,JavaScript,HTML,CSS,XAML
-  
-  ⚙️ 𝑴𝒚 𝑭𝒓𝒂𝒎𝒆𝒘𝒐𝒓𝒌𝒔:.NET, ASP.NETCore, Unity
-  
-  🔨 𝑴𝒚 𝒕𝒐𝒐𝒍𝒔: VS,VSCode,Git
-  
-  💾 𝑴𝒚 𝒅𝒂𝒕𝒂𝒃𝒂𝒔𝒆𝒔: MS SQL server
-
-📚 𝑳𝒆𝒂𝒓𝒏𝒊𝒏𝒈: 
- 
-  𝙄´𝙢 𝙘𝙤𝙣𝙨𝙩𝙖𝙣𝙩𝙡𝙮 𝙡𝙚𝙖𝙧𝙣𝙞𝙣𝙜 𝙖𝙗𝙤𝙪𝙩 𝙝𝙤𝙬 𝙩𝙤 𝙘𝙤𝙙𝙚 𝙚𝙛𝙛𝙞𝙘𝙞𝙚𝙣𝙩 𝙖𝙣𝙙 𝙤𝙥𝙩𝙞𝙢𝙞𝙯𝙚𝙙 𝙖𝙡𝙜𝙤𝙧𝙞𝙩𝙝𝙢𝙨 ✅
- 
-  At the same time, 𝙄𝙢 𝙜𝙚𝙩𝙩𝙞𝙣𝙜 𝙞𝙣𝙩𝙤 .𝙉𝙀𝙏 𝙈𝘼𝙐𝙄 𝙛𝙧𝙖𝙢𝙚𝙬𝙤𝙧𝙠 😁
-
-📫 𝙒𝙧𝙞𝙩𝙚 𝙢𝙚 𝙩𝙝𝙧𝙤𝙪𝙜𝙝 𝙩𝙝𝙚 𝙛𝙤𝙡𝙡𝙤𝙬𝙞𝙣𝙜 𝙀-𝙢𝙖𝙞𝙡: alejandro.gonzalez.flme011@gmail.com 🗿
+Frameworks:
+https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white
+https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white
+https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white
+https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
+https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white
+https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black
+https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white
+https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
