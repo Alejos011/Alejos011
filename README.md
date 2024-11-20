@@ -1,6 +1,6 @@
 <h1 align="center">Alejandro Santiago González Miranda</h1>
 <p align="center">
-Estudiante de Ingenieria en Sistemas y Tecnologias de la Información Industrial en la BUAP, soy un apasionado por la tecnología y me encantan los retos, me especializo en desarrollo web con enfoque backend de la mano con tecnologías .NET
+Estudiante de Ingenieria en Sistemas y Tecnologias de la Información Industrial en la BUAP, soy un apasionado por la tecnología y me encantan los retos, me especializo en desarrollo web con enfoque backend de la mano con .NET Framework.
 </p>
 <h2>Stack de tecnologías:</h2>
 <h3>Lenguajes</h3>
